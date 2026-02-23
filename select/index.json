@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "One More Night",
+  "base_artist": "Maroon 5",
+  "createdAt": "2026-02-23T04:53:56.050766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One More Night",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/01_One_More_Night_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One More Night (Album Version)",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/02_One_More_Night_(Album_Version)_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One More Night (Live)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/03_One_More_Night_(Live)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One More Night",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/04_One_More_Night_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One More Night",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/05_One_More_Night_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One More Night",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/06_One_More_Night_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One More Night (2006)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/07_One_More_Night_(2006)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One More Night (extended version)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/08_One_More_Night_(extended_version)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One More Night [extended version]",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/09_One_More_Night_[extended_version]_Sandra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One More Night",
+      "artist": "Cascada",
+      "has_synced": false,
+      "path": "select/10_One_More_Night_Cascada.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One More Night",
+      "artist": "Can",
+      "has_synced": true,
+      "path": "select/11_One_More_Night_Can.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/12_One_More_Night_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One More Night (Sticky K Remix)",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/13_One_More_Night_(Sticky_K_Remix)_Maroon_5.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gimme One More Night",
+      "artist": "Treat",
+      "has_synced": false,
+      "path": "select/14_Gimme_One_More_Night_Treat.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One More Night",
+      "artist": "Diamond Head",
+      "has_synced": true,
+      "path": "select/15_One_More_Night_Diamond_Head.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Give Me One More Chance",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/16_Give_Me_One_More_Chance_Exile.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Give Me One More Chance",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/17_Give_Me_One_More_Chance_Exile.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Give Me One More Chance (Album Version)",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/18_Give_Me_One_More_Chance_(Album_Version)_Exile.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "One More Day",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/19_One_More_Day_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "One More Day",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/20_One_More_Day_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "One More Drinkin' Song",
+      "artist": "Jerrod Niemann",
+      "has_synced": true,
+      "path": "select/21_One_More_Drinkin'_Song_Jerrod_Niemann.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "One More Last Chance",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/22_One_More_Last_Chance_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "One More Last Chance (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/23_One_More_Last_Chance_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "One More Drink",
+      "artist": "Ludacris feat. T-Pain",
+      "has_synced": false,
+      "path": "select/24_One_More_Drink_Ludacris_feat._T-Pain.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "One More Drink (feat. T-Pain)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/25_One_More_Drink_(feat._T-Pain)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "One More",
+      "artist": "MEDICINE",
+      "has_synced": false,
+      "path": "select/26_One_More_MEDICINE.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "One More Chance",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/27_One_More_Chance_Madonna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/pl_01_One_More_Night_Maroon_5.txt"
+    }
+  ]
+}
